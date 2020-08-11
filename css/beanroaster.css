@@ -100,3 +100,16 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#tdroastcolour{
+    width: 80%;
+}
+
+#tdcommentcopy{
+    width: 20%;
+    text-align: left;
+}
+
+#Comments{
+    text-align: center;
+}
